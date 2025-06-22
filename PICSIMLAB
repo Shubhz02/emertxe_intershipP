@@ -1,0 +1,10 @@
+DOWNLOADE :- PICSIMLAB 
+    CLICK ---> https://sourceforge.net/projects/picsim/files/v0.8.9/
+
+
+INSTALLING ..........
+
+1) BOARD -> PICGenios 
+2) Microcontroller  -> PIC16F877A 
+3) CLOCK FREQUENCY -> 20 MHZ 
+4) CLCD -> 16*4
