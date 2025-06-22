@@ -1,0 +1,29 @@
+Downloade :- MPLAB X IDE 
+    click ---> https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide 
+
+INSTALLING.............
+
+Create new project 
+
+      1)  FILE -> NEW PROJECT   
+                ----> MICROCHIP EMBEDDED   => APPLICATION PROJECTS 
+                                                          -----> NEXT
+
+
+2)
+FAMILY : Mid-Range 8 bit MCUs
+DEVICE : PIC16F877A
+TOOL : NO TOOL 
+           -------> NEXT
+
+3) SELECT COMPLIER ---> XC8 
+                        ---> NEXT
+
+
+
+4) PROJECT NAME : "WASHING MACHINE"
+                          -----> FINISH
+                                                      
+
+
+
